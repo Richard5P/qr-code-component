@@ -17,6 +17,12 @@ img {
     width: 80%;
 }
 
+.card {
+    background-color:  hsl(0, 0%, 100%);
+    border: 10px solid hsl(0, 0%, 100%);
+    border-radius: 8px;
+}
+
 /* classes provided by frontendmentor */
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
