@@ -1,5 +1,9 @@
-/* project styles *
+/* project styles */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 
+html {
+    font-family: 'Outfit', sans-serif;
+}
 
 /* classes provided by frontendmentor */
 .attribution { font-size: 11px; text-align: center; }
