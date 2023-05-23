@@ -3,6 +3,18 @@
 
 html {
     font-family: 'Outfit', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+}
+
+img {
+    display:block;
+    border-radius: 8px;
+    margin: 0 auto;
+    width: 80%;
 }
 
 /* classes provided by frontendmentor */
