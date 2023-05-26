@@ -12,19 +12,27 @@ p {
 
 img {
     display:block;
-    border-radius: 10px;
-    margin: 10px auto;
-    width: 95%
+    border-radius: 15px;
+    margin: 5px auto;
+    width: 380px;
+    height: 380px;
 }
 
 .card {
-    width: 40%;
-    height: 75%;
-    margin: 50% auto;
+    width: 380px;
+    height: 640px;
+    margin: 100px auto;
+    padding: 10px;
     background-color:  hsl(0, 0%, 100%);
     border: 10px solid hsl(0, 0%, 100%);
-    border-radius: 10px;
+    border-radius: 15px;
     text-align: center;
+}
+
+.msg {
+    margin: 0 20px;
+    text-align: center;
+    padding: 0 30px;
 }
 
 /* classes provided by frontendmentor */
